@@ -1,0 +1,50 @@
+h1 {
+  color: red;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid black;
+}
+div {
+  background-color: rgb(0, 255, 21);
+}
+div {
+  background-color: rgb(236, 195, 91);
+}
+#fortnite-info {
+}
+
+div {
+  background-color: rgb(97, 97, 239);
+}
+#fortnite {
+}
+body {
+  font-family: "Dancing Script", cursive;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
